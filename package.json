@@ -1,0 +1,23 @@
+{
+  "name": "android-geometry-convert",
+  "version": "0.0.5",
+  "description": "geometry convert Plugin for android",
+  "cordova": {
+    "id": "geometryconvert",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "geometryconvert",
+    "geometry convert",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
