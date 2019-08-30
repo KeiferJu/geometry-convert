@@ -1,6 +1,7 @@
 # geometryconvert on android 6 #
 
 使用：
+```
 document.addEventListener('deviceready', function () {
 	window.GeometryConvert.getEncryPoint(116, 43, function (result) {
             if (result) {
@@ -14,3 +15,4 @@ document.addEventListener('deviceready', function () {
             alert(err);
         })
 }, false);
+```
